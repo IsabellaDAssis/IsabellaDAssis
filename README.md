@@ -82,8 +82,8 @@ Me chamo Isabella D'Assis, tenho 19 anos e sou brasileira da cidade de São Paul
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
